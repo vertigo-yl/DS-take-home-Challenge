@@ -1,2 +1,3 @@
 # DS-take-home-Challenge
-My solution to the book A Collection of Data Science Take-Home Challenges
+
+Solution to the book -["A Collection of Data Science Take-Home Challenges".](https://datamasked.com)
